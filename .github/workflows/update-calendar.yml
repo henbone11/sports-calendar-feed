@@ -1,6 +1,12 @@
 name: Update sports calendar
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - "update_calendar.py"
+      - "requirements.txt"
+      - ".github/workflows/update-calendar.yml"
   schedule:
     - cron: "17 10 * * 1"
   workflow_dispatch:
