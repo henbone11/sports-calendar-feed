@@ -5,4 +5,14 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Combat Sports, Colts, Fever, F1 and MotoGP
 X-WR-TIMEZONE:Etc/GMT+5
+BEGIN:VEVENT
+UID:feed-initialized-20260725@terry-sports
+DTSTAMP:20260725T180000Z
+DTSTART;TZID=Etc/GMT+5:20260726T120000
+DTEND;TZID=Etc/GMT+5:20260726T123000
+SUMMARY:Sports Calendar Feed Initialized
+DESCRIPTION:This confirms that the hosted calendar feed is active. Upcoming sports events will be added by the weekly updater.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
