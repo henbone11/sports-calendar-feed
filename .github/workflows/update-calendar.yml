@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - "update_calendar.py"
+      - "sync_live_feed.py"
       - "requirements.txt"
       - ".github/workflows/update-calendar.yml"
   schedule:
@@ -25,10 +26,11 @@ jobs:
           cache: pip
       - run: pip install -r requirements.txt
       - run: python update_calendar.py
+      - run: python sync_live_feed.py
       - name: Commit refreshed calendar
         run: |
           git config user.name "sports-calendar-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add docs/sports_calendar.ics
+          git add docs/sports_calendar.ics sports_calendar.ics
           git diff --cached --quiet || git commit -m "Refresh sports calendar"
           git push
