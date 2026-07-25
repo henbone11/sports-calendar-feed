@@ -2,17 +2,1126 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Terry Sports Calendar//EN
 CALSCALE:GREGORIAN
-METHOD:PUBLISH
-X-WR-CALNAME:Combat Sports, Colts, Fever, F1 and MotoGP
+X-WR-CALNAME:Combat Sports\, Colts\, Fever\, F1 and MotoGP
 X-WR-TIMEZONE:Etc/GMT+5
 BEGIN:VEVENT
-UID:feed-initialized-20260725@terry-sports
-DTSTAMP:20260725T180000Z
-DTSTART;TZID=Etc/GMT+5:20260726T120000
-DTEND;TZID=Etc/GMT+5:20260726T123000
-SUMMARY:Sports Calendar Feed Initialized
-DESCRIPTION:This confirms that the hosted calendar feed is active. Upcoming sports events will be added by the weekly updater.
+SUMMARY:🏈 Baltimore Ravens at Indianapolis Colts
+DTSTART;TZID=Etc/GMT+5:20260913T120000
+DTEND;TZID=Etc/GMT+5:20260913T160000
+DTSTAMP:20260725T190700Z
+UID:nfl-401872659@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:Lucas Oil Stadium
 STATUS:CONFIRMED
-TRANSP:TRANSPARENT
+URL:https://www.espn.com/nfl/game/_/gameId/401872659/ravens-colts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏈 Indianapolis Colts at Kansas City Chiefs
+DTSTART;TZID=Etc/GMT+5:20260920T192000
+DTEND;TZID=Etc/GMT+5:20260920T232000
+DTSTAMP:20260725T190700Z
+UID:nfl-401872945@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:GEHA Field at Arrowhead Stadium
+STATUS:CONFIRMED
+URL:https://www.espn.com/nfl/game/_/gameId/401872945/colts-chiefs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏈 Houston Texans at Indianapolis Colts
+DTSTART;TZID=Etc/GMT+5:20260927T120000
+DTEND;TZID=Etc/GMT+5:20260927T160000
+DTSTAMP:20260725T190700Z
+UID:nfl-401872951@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:Lucas Oil Stadium
+STATUS:CONFIRMED
+URL:https://www.espn.com/nfl/game/_/gameId/401872951/texans-colts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏈 Indianapolis Colts at Washington Commanders
+DTSTART;TZID=Etc/GMT+5:20261004T083000
+DTEND;TZID=Etc/GMT+5:20261004T123000
+DTSTAMP:20260725T190700Z
+UID:nfl-401872965@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:Tottenham Hotspur Stadium
+STATUS:CONFIRMED
+URL:https://www.espn.com/nfl/game/_/gameId/401872965/colts-commanders
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏈 Indianapolis Colts at Pittsburgh Steelers
+DTSTART;TZID=Etc/GMT+5:20261011T120000
+DTEND;TZID=Etc/GMT+5:20261011T160000
+DTSTAMP:20260725T190700Z
+UID:nfl-401872985@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:Acrisure Stadium
+STATUS:CONFIRMED
+URL:https://www.espn.com/nfl/game/_/gameId/401872985/colts-steelers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏈 Tennessee Titans at Indianapolis Colts
+DTSTART;TZID=Etc/GMT+5:20261018T120000
+DTEND;TZID=Etc/GMT+5:20261018T160000
+DTSTAMP:20260725T190700Z
+UID:nfl-401873003@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:Lucas Oil Stadium
+STATUS:CONFIRMED
+URL:https://www.espn.com/nfl/game/_/gameId/401873003/titans-colts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏈 Indianapolis Colts at Minnesota Vikings
+DTSTART;TZID=Etc/GMT+5:20261025T120000
+DTEND;TZID=Etc/GMT+5:20261025T160000
+DTSTAMP:20260725T190700Z
+UID:nfl-401873014@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:U.S. Bank Stadium
+STATUS:CONFIRMED
+URL:https://www.espn.com/nfl/game/_/gameId/401873014/colts-vikings
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏈 Indianapolis Colts at Jacksonville Jaguars
+DTSTART;TZID=Etc/GMT+5:20261101T130000
+DTEND;TZID=Etc/GMT+5:20261101T170000
+DTSTAMP:20260725T190700Z
+UID:nfl-401873028@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:EverBank Stadium
+STATUS:CONFIRMED
+URL:https://www.espn.com/nfl/game/_/gameId/401873028/colts-jaguars
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏈 Dallas Cowboys at Indianapolis Colts
+DTSTART;TZID=Etc/GMT+5:20261108T130000
+DTEND;TZID=Etc/GMT+5:20261108T170000
+DTSTAMP:20260725T190700Z
+UID:nfl-401873040@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:Lucas Oil Stadium
+STATUS:CONFIRMED
+URL:https://www.espn.com/nfl/game/_/gameId/401873040/cowboys-colts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏈 Miami Dolphins at Indianapolis Colts
+DTSTART;TZID=Etc/GMT+5:20261115T130000
+DTEND;TZID=Etc/GMT+5:20261115T170000
+DTSTAMP:20260725T190700Z
+UID:nfl-401873059@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:Lucas Oil Stadium
+STATUS:CONFIRMED
+URL:https://www.espn.com/nfl/game/_/gameId/401873059/dolphins-colts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏈 Indianapolis Colts at Houston Texans
+DTSTART;TZID=Etc/GMT+5:20261119T201500
+DTEND;TZID=Etc/GMT+5:20261120T001500
+DTSTAMP:20260725T190700Z
+UID:nfl-401873066@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:NRG Stadium
+STATUS:CONFIRMED
+URL:https://www.espn.com/nfl/game/_/gameId/401873066/colts-texans
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏈 New York Giants at Indianapolis Colts
+DTSTART;TZID=Etc/GMT+5:20261129T130000
+DTEND;TZID=Etc/GMT+5:20261129T170000
+DTSTAMP:20260725T190700Z
+UID:nfl-401873088@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:Lucas Oil Stadium
+STATUS:CONFIRMED
+URL:https://www.espn.com/nfl/game/_/gameId/401873088/giants-colts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏈 Indianapolis Colts at Philadelphia Eagles
+DTSTART;TZID=Etc/GMT+5:20261213T130000
+DTEND;TZID=Etc/GMT+5:20261213T170000
+DTSTAMP:20260725T190700Z
+UID:nfl-401873114@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:Lincoln Financial Field
+STATUS:CONFIRMED
+URL:https://www.espn.com/nfl/game/_/gameId/401873114/colts-eagles
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏈 Indianapolis Colts at Tennessee Titans
+DTSTART;TZID=Etc/GMT+5:20261220T130000
+DTEND;TZID=Etc/GMT+5:20261220T170000
+DTSTAMP:20260725T190700Z
+UID:nfl-401873131@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:Nissan Stadium
+STATUS:CONFIRMED
+URL:https://www.espn.com/nfl/game/_/gameId/401873131/colts-titans
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏈 Cincinnati Bengals at Indianapolis Colts
+DTSTART;TZID=Etc/GMT+5:20261227T000000
+DTEND;TZID=Etc/GMT+5:20261227T040000
+DTSTAMP:20260725T190700Z
+UID:nfl-401873145@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:Lucas Oil Stadium
+STATUS:CONFIRMED
+URL:https://www.espn.com/nfl/game/_/gameId/401873145/bengals-colts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏈 Indianapolis Colts at Cleveland Browns
+DTSTART;TZID=Etc/GMT+5:20270103T130000
+DTEND;TZID=Etc/GMT+5:20270103T170000
+DTSTAMP:20260725T190700Z
+UID:nfl-401873162@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:Huntington Bank Field
+STATUS:CONFIRMED
+URL:https://www.espn.com/nfl/game/_/gameId/401873162/colts-browns
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏈 Jacksonville Jaguars at Indianapolis Colts
+DTSTART;TZID=Etc/GMT+5:20270110T000000
+DTEND;TZID=Etc/GMT+5:20270110T040000
+DTSTAMP:20260725T190700Z
+UID:nfl-401873177@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:Lucas Oil Stadium
+STATUS:CONFIRMED
+URL:https://www.espn.com/nfl/game/_/gameId/401873177/jaguars-colts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Indiana Fever at New York Liberty
+DTSTART;TZID=Etc/GMT+5:20260425T140000
+DTEND;TZID=Etc/GMT+5:20260425T170000
+DTSTAMP:20260725T190700Z
+UID:wnba-401866150@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:Barclays Center
+STATUS:CONFIRMED
+URL:https://www.espn.com/wnba/game/_/gameId/401866150/fever-liberty
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Dallas Wings at Indiana Fever
+DTSTART;TZID=Etc/GMT+5:20260430T180000
+DTEND;TZID=Etc/GMT+5:20260430T210000
+DTSTAMP:20260725T190700Z
+UID:wnba-401866518@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:Gainbridge Fieldhouse
+STATUS:CONFIRMED
+URL:https://www.espn.com/wnba/game/_/gameId/401866518/wings-fever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 NIGERIA at Indiana Fever
+DTSTART;TZID=Etc/GMT+5:20260502T180000
+DTEND;TZID=Etc/GMT+5:20260502T210000
+DTSTAMP:20260725T190700Z
+UID:wnba-401867794@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:Gainbridge Fieldhouse
+STATUS:CONFIRMED
+URL:https://www.espn.com/wnba/game/_/gameId/401867794/nigeria-fever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Dallas Wings at Indiana Fever
+DTSTART;TZID=Etc/GMT+5:20260509T120000
+DTEND;TZID=Etc/GMT+5:20260509T150000
+DTSTAMP:20260725T190700Z
+UID:wnba-401856893@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:Gainbridge Fieldhouse
+STATUS:CONFIRMED
+URL:https://www.espn.com/wnba/game/_/gameId/401856893/wings-fever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Indiana Fever at Los Angeles Sparks
+DTSTART;TZID=Etc/GMT+5:20260513T213000
+DTEND;TZID=Etc/GMT+5:20260514T003000
+DTSTAMP:20260725T190700Z
+UID:wnba-401856907@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:crypto.com Arena
+STATUS:CONFIRMED
+URL:https://www.espn.com/wnba/game/_/gameId/401856907/fever-sparks
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Washington Mystics at Indiana Fever
+DTSTART;TZID=Etc/GMT+5:20260515T183000
+DTEND;TZID=Etc/GMT+5:20260515T213000
+DTSTAMP:20260725T190700Z
+UID:wnba-401856911@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:Gainbridge Fieldhouse
+STATUS:CONFIRMED
+URL:https://www.espn.com/wnba/game/_/gameId/401856911/mystics-fever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Seattle Storm at Indiana Fever
+DTSTART;TZID=Etc/GMT+5:20260517T170000
+DTEND;TZID=Etc/GMT+5:20260517T200000
+DTSTAMP:20260725T190700Z
+UID:wnba-401856916@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:Gainbridge Fieldhouse
+STATUS:CONFIRMED
+URL:https://www.espn.com/wnba/game/_/gameId/401856916/storm-fever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Portland Fire at Indiana Fever
+DTSTART;TZID=Etc/GMT+5:20260520T180000
+DTEND;TZID=Etc/GMT+5:20260520T210000
+DTSTAMP:20260725T190700Z
+UID:wnba-401856921@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:Gainbridge Fieldhouse
+STATUS:CONFIRMED
+URL:https://www.espn.com/wnba/game/_/gameId/401856921/fire-fever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Golden State Valkyries at Indiana Fever
+DTSTART;TZID=Etc/GMT+5:20260522T183000
+DTEND;TZID=Etc/GMT+5:20260522T213000
+DTSTAMP:20260725T190700Z
+UID:wnba-401856928@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:Gainbridge Fieldhouse
+STATUS:CONFIRMED
+URL:https://www.espn.com/wnba/game/_/gameId/401856928/valkyries-fever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Indiana Fever at Golden State Valkyries
+DTSTART;TZID=Etc/GMT+5:20260528T210000
+DTEND;TZID=Etc/GMT+5:20260529T000000
+DTSTAMP:20260725T190700Z
+UID:wnba-401856944@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:Chase Center
+STATUS:CONFIRMED
+URL:https://www.espn.com/wnba/game/_/gameId/401856944/fever-valkyries
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Indiana Fever at Portland Fire
+DTSTART;TZID=Etc/GMT+5:20260530T190000
+DTEND;TZID=Etc/GMT+5:20260530T220000
+DTSTAMP:20260725T190700Z
+UID:wnba-401856951@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:Moda Center
+STATUS:CONFIRMED
+URL:https://www.espn.com/wnba/game/_/gameId/401856951/fever-fire
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Atlanta Dream at Indiana Fever
+DTSTART;TZID=Etc/GMT+5:20260604T180000
+DTEND;TZID=Etc/GMT+5:20260604T210000
+DTSTAMP:20260725T190700Z
+UID:wnba-401856961@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:Gainbridge Fieldhouse
+STATUS:CONFIRMED
+URL:https://www.espn.com/wnba/game/_/gameId/401856961/dream-fever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Indiana Fever at New York Liberty
+DTSTART;TZID=Etc/GMT+5:20260606T190000
+DTEND;TZID=Etc/GMT+5:20260606T220000
+DTSTAMP:20260725T190700Z
+UID:wnba-401856969@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:Barclays Center
+STATUS:CONFIRMED
+URL:https://www.espn.com/wnba/game/_/gameId/401856969/fever-liberty
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Indiana Fever at Washington Mystics
+DTSTART;TZID=Etc/GMT+5:20260608T180000
+DTEND;TZID=Etc/GMT+5:20260608T210000
+DTSTAMP:20260725T190700Z
+UID:wnba-401856973@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:CareFirst Arena
+STATUS:CONFIRMED
+URL:https://www.espn.com/wnba/game/_/gameId/401856973/fever-mystics
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Chicago Sky at Indiana Fever
+DTSTART;TZID=Etc/GMT+5:20260611T180000
+DTEND;TZID=Etc/GMT+5:20260611T210000
+DTSTAMP:20260725T190700Z
+UID:wnba-401856980@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:Gainbridge Fieldhouse
+STATUS:CONFIRMED
+URL:https://www.espn.com/wnba/game/_/gameId/401856980/sky-fever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Indiana Fever at Connecticut Sun
+DTSTART;TZID=Etc/GMT+5:20260613T170000
+DTEND;TZID=Etc/GMT+5:20260613T200000
+DTSTAMP:20260725T190700Z
+UID:wnba-401856986@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:Mohegan Sun Arena
+STATUS:CONFIRMED
+URL:https://www.espn.com/wnba/game/_/gameId/401856986/fever-sun
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Toronto Tempo at Indiana Fever
+DTSTART;TZID=Etc/GMT+5:20260616T180000
+DTEND;TZID=Etc/GMT+5:20260616T210000
+DTSTAMP:20260725T190700Z
+UID:wnba-401856995@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:Gainbridge Fieldhouse
+STATUS:CONFIRMED
+URL:https://www.espn.com/wnba/game/_/gameId/401856995/tempo-fever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Atlanta Dream at Indiana Fever
+DTSTART;TZID=Etc/GMT+5:20260618T183000
+DTEND;TZID=Etc/GMT+5:20260618T213000
+DTSTAMP:20260725T190700Z
+UID:wnba-401857002@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:Gainbridge Fieldhouse
+STATUS:CONFIRMED
+URL:https://www.espn.com/wnba/game/_/gameId/401857002/dream-fever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Indiana Fever at Atlanta Dream
+DTSTART;TZID=Etc/GMT+5:20260620T120000
+DTEND;TZID=Etc/GMT+5:20260620T150000
+DTSTAMP:20260725T190700Z
+UID:wnba-401857006@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:State Farm Arena
+STATUS:CONFIRMED
+URL:https://www.espn.com/wnba/game/_/gameId/401857006/fever-dream
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Phoenix Mercury at Indiana Fever
+DTSTART;TZID=Etc/GMT+5:20260622T190000
+DTEND;TZID=Etc/GMT+5:20260622T220000
+DTSTAMP:20260725T190700Z
+UID:wnba-401857014@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:Gainbridge Fieldhouse
+STATUS:CONFIRMED
+URL:https://www.espn.com/wnba/game/_/gameId/401857014/mercury-fever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Phoenix Mercury at Indiana Fever
+DTSTART;TZID=Etc/GMT+5:20260624T183000
+DTEND;TZID=Etc/GMT+5:20260624T213000
+DTSTAMP:20260725T190700Z
+UID:wnba-401857017@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:Gainbridge Fieldhouse
+STATUS:CONFIRMED
+URL:https://www.espn.com/wnba/game/_/gameId/401857017/mercury-fever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Los Angeles Sparks at Indiana Fever
+DTSTART;TZID=Etc/GMT+5:20260627T190000
+DTEND;TZID=Etc/GMT+5:20260627T220000
+DTSTAMP:20260725T190700Z
+UID:wnba-401857028@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:Gainbridge Fieldhouse
+STATUS:CONFIRMED
+URL:https://www.espn.com/wnba/game/_/gameId/401857028/sparks-fever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Indiana Fever at Las Vegas Aces
+DTSTART;TZID=Etc/GMT+5:20260705T180000
+DTEND;TZID=Etc/GMT+5:20260705T210000
+DTSTAMP:20260725T190700Z
+UID:wnba-401857042@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:T-Mobile Arena
+STATUS:CONFIRMED
+URL:https://www.espn.com/wnba/game/_/gameId/401857042/fever-aces
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Indiana Fever at Los Angeles Sparks
+DTSTART;TZID=Etc/GMT+5:20260708T210000
+DTEND;TZID=Etc/GMT+5:20260709T000000
+DTSTAMP:20260725T190700Z
+UID:wnba-401857050@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:crypto.com Arena
+STATUS:CONFIRMED
+URL:https://www.espn.com/wnba/game/_/gameId/401857050/fever-sparks
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Indiana Fever at Phoenix Mercury
+DTSTART;TZID=Etc/GMT+5:20260709T210000
+DTEND;TZID=Etc/GMT+5:20260710T000000
+DTSTAMP:20260725T190700Z
+UID:wnba-401857052@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:Mortgage Matchup Center
+STATUS:CONFIRMED
+URL:https://www.espn.com/wnba/game/_/gameId/401857052/fever-mercury
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Indiana Fever at Las Vegas Aces
+DTSTART;TZID=Etc/GMT+5:20260712T200000
+DTEND;TZID=Etc/GMT+5:20260712T230000
+DTSTAMP:20260725T190700Z
+UID:wnba-401857063@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:Michelob ULTRA Arena
+STATUS:CONFIRMED
+URL:https://www.espn.com/wnba/game/_/gameId/401857063/fever-aces
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Golden State Valkyries at Indiana Fever
+DTSTART;TZID=Etc/GMT+5:20260715T190000
+DTEND;TZID=Etc/GMT+5:20260715T220000
+DTSTAMP:20260725T190700Z
+UID:wnba-401857070@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:Gainbridge Fieldhouse
+STATUS:CONFIRMED
+URL:https://www.espn.com/wnba/game/_/gameId/401857070/valkyries-fever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Seattle Storm at Indiana Fever
+DTSTART;TZID=Etc/GMT+5:20260717T183000
+DTEND;TZID=Etc/GMT+5:20260717T213000
+DTSTAMP:20260725T190700Z
+UID:wnba-401857073@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:Gainbridge Fieldhouse
+STATUS:CONFIRMED
+URL:https://www.espn.com/wnba/game/_/gameId/401857073/storm-fever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 New York Liberty at Indiana Fever
+DTSTART;TZID=Etc/GMT+5:20260718T190000
+DTEND;TZID=Etc/GMT+5:20260718T220000
+DTSTAMP:20260725T190700Z
+UID:wnba-401857077@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:Gainbridge Fieldhouse
+STATUS:CONFIRMED
+URL:https://www.espn.com/wnba/game/_/gameId/401857077/liberty-fever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Connecticut Sun at Indiana Fever
+DTSTART;TZID=Etc/GMT+5:20260722T190000
+DTEND;TZID=Etc/GMT+5:20260722T220000
+DTSTAMP:20260725T190700Z
+UID:wnba-401857090@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:Gainbridge Fieldhouse
+STATUS:CONFIRMED
+URL:https://www.espn.com/wnba/game/_/gameId/401857090/sun-fever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Indiana Fever at Seattle Storm
+DTSTART;TZID=Etc/GMT+5:20260728T203000
+DTEND;TZID=Etc/GMT+5:20260728T233000
+DTSTAMP:20260725T190700Z
+UID:wnba-401857094@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:Climate Pledge Arena
+STATUS:CONFIRMED
+URL:https://www.espn.com/wnba/game/_/gameId/401857094/fever-storm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Indiana Fever at Portland Fire
+DTSTART;TZID=Etc/GMT+5:20260731T210000
+DTEND;TZID=Etc/GMT+5:20260801T000000
+DTSTAMP:20260725T190700Z
+UID:wnba-401857104@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:Moda Center
+STATUS:CONFIRMED
+URL:https://www.espn.com/wnba/game/_/gameId/401857104/fever-fire
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Indiana Fever at Minnesota Lynx
+DTSTART;TZID=Etc/GMT+5:20260802T120000
+DTEND;TZID=Etc/GMT+5:20260802T150000
+DTSTAMP:20260725T190700Z
+UID:wnba-401857107@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:Target Center
+STATUS:CONFIRMED
+URL:https://www.espn.com/wnba/game/_/gameId/401857107/fever-lynx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Las Vegas Aces at Indiana Fever
+DTSTART;TZID=Etc/GMT+5:20260806T180000
+DTEND;TZID=Etc/GMT+5:20260806T210000
+DTSTAMP:20260725T190700Z
+UID:wnba-401857119@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:Gainbridge Fieldhouse
+STATUS:CONFIRMED
+URL:https://www.espn.com/wnba/game/_/gameId/401857119/aces-fever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Indiana Fever at Chicago Sky
+DTSTART;TZID=Etc/GMT+5:20260808T143000
+DTEND;TZID=Etc/GMT+5:20260808T173000
+DTSTAMP:20260725T190700Z
+UID:wnba-401857126@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:United Center
+STATUS:CONFIRMED
+URL:https://www.espn.com/wnba/game/_/gameId/401857126/fever-sky
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 New York Liberty at Indiana Fever
+DTSTART;TZID=Etc/GMT+5:20260811T183000
+DTEND;TZID=Etc/GMT+5:20260811T213000
+DTSTAMP:20260725T190700Z
+UID:wnba-401857134@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:Gainbridge Fieldhouse
+STATUS:CONFIRMED
+URL:https://www.espn.com/wnba/game/_/gameId/401857134/liberty-fever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Dallas Wings at Indiana Fever
+DTSTART;TZID=Etc/GMT+5:20260814T183000
+DTEND;TZID=Etc/GMT+5:20260814T213000
+DTSTAMP:20260725T190700Z
+UID:wnba-401857143@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:Gainbridge Fieldhouse
+STATUS:CONFIRMED
+URL:https://www.espn.com/wnba/game/_/gameId/401857143/wings-fever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Indiana Fever at Atlanta Dream
+DTSTART;TZID=Etc/GMT+5:20260816T160000
+DTEND;TZID=Etc/GMT+5:20260816T190000
+DTSTAMP:20260725T190700Z
+UID:wnba-401857150@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:State Farm Arena
+STATUS:CONFIRMED
+URL:https://www.espn.com/wnba/game/_/gameId/401857150/fever-dream
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Indiana Fever at Toronto Tempo
+DTSTART;TZID=Etc/GMT+5:20260818T180000
+DTEND;TZID=Etc/GMT+5:20260818T210000
+DTSTAMP:20260725T190700Z
+UID:wnba-401857153@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:Scotiabank Arena
+STATUS:CONFIRMED
+URL:https://www.espn.com/wnba/game/_/gameId/401857153/fever-tempo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Indiana Fever at Dallas Wings
+DTSTART;TZID=Etc/GMT+5:20260820T190000
+DTEND;TZID=Etc/GMT+5:20260820T220000
+DTSTAMP:20260725T190700Z
+UID:wnba-401857158@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:American Airlines Center
+STATUS:CONFIRMED
+URL:https://www.espn.com/wnba/game/_/gameId/401857158/fever-wings
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Indiana Fever at New York Liberty
+DTSTART;TZID=Etc/GMT+5:20260822T180000
+DTEND;TZID=Etc/GMT+5:20260822T210000
+DTSTAMP:20260725T190700Z
+UID:wnba-401857164@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:Barclays Center
+STATUS:CONFIRMED
+URL:https://www.espn.com/wnba/game/_/gameId/401857164/fever-liberty
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Indiana Fever at Chicago Sky
+DTSTART;TZID=Etc/GMT+5:20260823T180000
+DTEND;TZID=Etc/GMT+5:20260823T210000
+DTSTAMP:20260725T190700Z
+UID:wnba-401857168@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:Wintrust Arena
+STATUS:CONFIRMED
+URL:https://www.espn.com/wnba/game/_/gameId/401857168/fever-sky
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Connecticut Sun at Indiana Fever
+DTSTART;TZID=Etc/GMT+5:20260828T183000
+DTEND;TZID=Etc/GMT+5:20260828T213000
+DTSTAMP:20260725T190700Z
+UID:wnba-401857181@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:Gainbridge Fieldhouse
+STATUS:CONFIRMED
+URL:https://www.espn.com/wnba/game/_/gameId/401857181/sun-fever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Indiana Fever at Toronto Tempo
+DTSTART;TZID=Etc/GMT+5:20260918T183000
+DTEND;TZID=Etc/GMT+5:20260918T213000
+DTSTAMP:20260725T190700Z
+UID:wnba-401857195@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:Coca-Cola Coliseum
+STATUS:CONFIRMED
+URL:https://www.espn.com/wnba/game/_/gameId/401857195/fever-tempo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Washington Mystics at Indiana Fever
+DTSTART;TZID=Etc/GMT+5:20260920T150000
+DTEND;TZID=Etc/GMT+5:20260920T180000
+DTSTAMP:20260725T190700Z
+UID:wnba-401857203@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:Gainbridge Fieldhouse
+STATUS:CONFIRMED
+URL:https://www.espn.com/wnba/game/_/gameId/401857203/mystics-fever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Minnesota Lynx at Indiana Fever
+DTSTART;TZID=Etc/GMT+5:20260922T190000
+DTEND;TZID=Etc/GMT+5:20260922T220000
+DTSTAMP:20260725T190700Z
+UID:wnba-401857209@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:Gainbridge Fieldhouse
+STATUS:CONFIRMED
+URL:https://www.espn.com/wnba/game/_/gameId/401857209/lynx-fever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Indiana Fever at Minnesota Lynx
+DTSTART;TZID=Etc/GMT+5:20260924T190000
+DTEND;TZID=Etc/GMT+5:20260924T220000
+DTSTAMP:20260725T190700Z
+UID:wnba-401857217@terry-sports
+DESCRIPTION:Watch: TBD\nTimes shown in fixed UTC-05:00.
+LOCATION:Target Center
+STATUS:CONFIRMED
+URL:https://www.espn.com/wnba/game/_/gameId/401857217/fever-lynx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎️ F1: Hungarian Grand Prix
+DTSTART;TZID=Etc/GMT+5:20260726T080000
+DTEND;TZID=Etc/GMT+5:20260726T110000
+DTSTAMP:20260725T190700Z
+UID:f1-2026-11@terry-sports
+DESCRIPTION:Watch in the U.S.: ESPN networks / ESPN app\; exact channel ma
+ y vary.\nTimes shown in fixed UTC-05:00.
+LOCATION:Hungaroring
+STATUS:CONFIRMED
+URL:https://en.wikipedia.org/wiki/2026_Hungarian_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎️ F1: Dutch Grand Prix
+DTSTART;TZID=Etc/GMT+5:20260823T080000
+DTEND;TZID=Etc/GMT+5:20260823T110000
+DTSTAMP:20260725T190700Z
+UID:f1-2026-12@terry-sports
+DESCRIPTION:Watch in the U.S.: ESPN networks / ESPN app\; exact channel ma
+ y vary.\nTimes shown in fixed UTC-05:00.
+LOCATION:Circuit Park Zandvoort
+STATUS:CONFIRMED
+URL:https://en.wikipedia.org/wiki/2026_Dutch_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎️ F1: Italian Grand Prix
+DTSTART;TZID=Etc/GMT+5:20260906T080000
+DTEND;TZID=Etc/GMT+5:20260906T110000
+DTSTAMP:20260725T190700Z
+UID:f1-2026-13@terry-sports
+DESCRIPTION:Watch in the U.S.: ESPN networks / ESPN app\; exact channel ma
+ y vary.\nTimes shown in fixed UTC-05:00.
+LOCATION:Autodromo Nazionale di Monza
+STATUS:CONFIRMED
+URL:https://en.wikipedia.org/wiki/2026_Italian_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎️ F1: Spanish Grand Prix
+DTSTART;TZID=Etc/GMT+5:20260913T080000
+DTEND;TZID=Etc/GMT+5:20260913T110000
+DTSTAMP:20260725T190700Z
+UID:f1-2026-14@terry-sports
+DESCRIPTION:Watch in the U.S.: ESPN networks / ESPN app\; exact channel ma
+ y vary.\nTimes shown in fixed UTC-05:00.
+LOCATION:Madring
+STATUS:CONFIRMED
+URL:https://en.wikipedia.org/wiki/2026_Spanish_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎️ F1: Azerbaijan Grand Prix
+DTSTART;TZID=Etc/GMT+5:20260926T060000
+DTEND;TZID=Etc/GMT+5:20260926T090000
+DTSTAMP:20260725T190700Z
+UID:f1-2026-15@terry-sports
+DESCRIPTION:Watch in the U.S.: ESPN networks / ESPN app\; exact channel ma
+ y vary.\nTimes shown in fixed UTC-05:00.
+LOCATION:Baku City Circuit
+STATUS:CONFIRMED
+URL:https://en.wikipedia.org/wiki/2026_Azerbaijan_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎️ F1: Singapore Grand Prix
+DTSTART;TZID=Etc/GMT+5:20261011T070000
+DTEND;TZID=Etc/GMT+5:20261011T100000
+DTSTAMP:20260725T190700Z
+UID:f1-2026-16@terry-sports
+DESCRIPTION:Watch in the U.S.: ESPN networks / ESPN app\; exact channel ma
+ y vary.\nTimes shown in fixed UTC-05:00.
+LOCATION:Marina Bay Street Circuit
+STATUS:CONFIRMED
+URL:https://en.wikipedia.org/wiki/2026_Singapore_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎️ F1: United States Grand Prix
+DTSTART;TZID=Etc/GMT+5:20261025T150000
+DTEND;TZID=Etc/GMT+5:20261025T180000
+DTSTAMP:20260725T190700Z
+UID:f1-2026-17@terry-sports
+DESCRIPTION:Watch in the U.S.: ESPN networks / ESPN app\; exact channel ma
+ y vary.\nTimes shown in fixed UTC-05:00.
+LOCATION:Circuit of the Americas
+STATUS:CONFIRMED
+URL:https://en.wikipedia.org/wiki/2026_United_States_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎️ F1: Mexico City Grand Prix
+DTSTART;TZID=Etc/GMT+5:20261101T150000
+DTEND;TZID=Etc/GMT+5:20261101T180000
+DTSTAMP:20260725T190700Z
+UID:f1-2026-18@terry-sports
+DESCRIPTION:Watch in the U.S.: ESPN networks / ESPN app\; exact channel ma
+ y vary.\nTimes shown in fixed UTC-05:00.
+LOCATION:Autódromo Hermanos Rodríguez
+STATUS:CONFIRMED
+URL:https://en.wikipedia.org/wiki/2026_Mexico_City_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎️ F1: Brazilian Grand Prix
+DTSTART;TZID=Etc/GMT+5:20261108T120000
+DTEND;TZID=Etc/GMT+5:20261108T150000
+DTSTAMP:20260725T190700Z
+UID:f1-2026-19@terry-sports
+DESCRIPTION:Watch in the U.S.: ESPN networks / ESPN app\; exact channel ma
+ y vary.\nTimes shown in fixed UTC-05:00.
+LOCATION:Autódromo José Carlos Pace
+STATUS:CONFIRMED
+URL:https://en.wikipedia.org/wiki/2026_Brazilian_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎️ F1: Las Vegas Grand Prix
+DTSTART;TZID=Etc/GMT+5:20261121T230000
+DTEND;TZID=Etc/GMT+5:20261122T020000
+DTSTAMP:20260725T190700Z
+UID:f1-2026-20@terry-sports
+DESCRIPTION:Watch in the U.S.: ESPN networks / ESPN app\; exact channel ma
+ y vary.\nTimes shown in fixed UTC-05:00.
+LOCATION:Las Vegas Strip Street Circuit
+STATUS:CONFIRMED
+URL:https://en.wikipedia.org/wiki/2026_Las_Vegas_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎️ F1: Qatar Grand Prix
+DTSTART;TZID=Etc/GMT+5:20261129T110000
+DTEND;TZID=Etc/GMT+5:20261129T140000
+DTSTAMP:20260725T190700Z
+UID:f1-2026-21@terry-sports
+DESCRIPTION:Watch in the U.S.: ESPN networks / ESPN app\; exact channel ma
+ y vary.\nTimes shown in fixed UTC-05:00.
+LOCATION:Losail International Circuit
+STATUS:CONFIRMED
+URL:https://en.wikipedia.org/wiki/2026_Qatar_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎️ F1: Abu Dhabi Grand Prix
+DTSTART;TZID=Etc/GMT+5:20261206T080000
+DTEND;TZID=Etc/GMT+5:20261206T110000
+DTSTAMP:20260725T190700Z
+UID:f1-2026-22@terry-sports
+DESCRIPTION:Watch in the U.S.: ESPN networks / ESPN app\; exact channel ma
+ y vary.\nTimes shown in fixed UTC-05:00.
+LOCATION:Yas Marina Circuit
+STATUS:CONFIRMED
+URL:https://en.wikipedia.org/wiki/2026_Abu_Dhabi_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥋 UFC Fight Night: Ankalaev vs. Guskov
+DTSTART;TZID=Etc/GMT+5:20260725T080000
+DTEND;TZID=Etc/GMT+5:20260725T130000
+DTSTAMP:20260725T190700Z
+UID:ufc-600059667@terry-sports
+DESCRIPTION:Series: UFC\nWatch: Paramount+\nTimes shown in fixed UTC-05:00
+ .
+LOCATION:Etihad Arena
+STATUS:CONFIRMED
+URL:https://www.espn.com/mma/fightcenter/_/id/600059667/league/ufc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥋 UFC Fight Night: Medić vs. Rodriguez
+DTSTART;TZID=Etc/GMT+5:20260801T090000
+DTEND;TZID=Etc/GMT+5:20260801T140000
+DTSTAMP:20260725T190700Z
+UID:ufc-600059339@terry-sports
+DESCRIPTION:Series: UFC\nWatch: Paramount+\nTimes shown in fixed UTC-05:00
+ .
+LOCATION:Belgrade Arena
+STATUS:CONFIRMED
+URL:https://www.espn.com/mma/fightcenter/_/id/600059339/league/ufc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥋 UFC Fight Night: Gamrot vs Salkilld
+DTSTART;TZID=Etc/GMT+5:20260808T130000
+DTEND;TZID=Etc/GMT+5:20260808T180000
+DTSTAMP:20260725T190700Z
+UID:ufc-600060621@terry-sports
+DESCRIPTION:Series: UFC\nWatch: Paramount+\nTimes shown in fixed UTC-05:00
+ .
+LOCATION:Meta APEX
+STATUS:CONFIRMED
+URL:https://www.espn.com/mma/fightcenter/_/id/600060621/league/ufc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥋 Dana White's Contender Series: Season 10\, Week 1
+DTSTART;TZID=Etc/GMT+5:20260811T190000
+DTEND;TZID=Etc/GMT+5:20260812T000000
+DTSTAMP:20260725T190700Z
+UID:ufc-600060732@terry-sports
+DESCRIPTION:Series: UFC\nWatch: Paramount+\nTimes shown in fixed UTC-05:00
+ .
+LOCATION:Meta APEX
+STATUS:CONFIRMED
+URL:https://www.espn.com/mma/fightcenter/_/id/600060732/league/ufc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥋 UFC 330: Makhachev vs. Machado Garry
+DTSTART;TZID=Etc/GMT+5:20260815T160000
+DTEND;TZID=Etc/GMT+5:20260815T210000
+DTSTAMP:20260725T190700Z
+UID:ufc-600059185@terry-sports
+DESCRIPTION:Series: UFC\nWatch: Paramount+\nTimes shown in fixed UTC-05:00
+ .
+LOCATION:Xfinity Mobile Arena
+STATUS:CONFIRMED
+URL:https://www.espn.com/mma/fightcenter/_/id/600059185/league/ufc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥋 Dana White's Contender Series: Season 10\, Week 2
+DTSTART;TZID=Etc/GMT+5:20260818T190000
+DTEND;TZID=Etc/GMT+5:20260819T000000
+DTSTAMP:20260725T190700Z
+UID:ufc-600060733@terry-sports
+DESCRIPTION:Series: UFC\nWatch: Paramount+\nTimes shown in fixed UTC-05:00
+ .
+LOCATION:Meta APEX
+STATUS:CONFIRMED
+URL:https://www.espn.com/mma/fightcenter/_/id/600060733/league/ufc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥋 UFC Fight Night: Hernandez vs. Rodrigues
+DTSTART;TZID=Etc/GMT+5:20260822T160000
+DTEND;TZID=Etc/GMT+5:20260822T210000
+DTSTAMP:20260725T190700Z
+UID:ufc-600060493@terry-sports
+DESCRIPTION:Series: UFC\nWatch: Paramount+\nTimes shown in fixed UTC-05:00
+ .
+LOCATION:Golden 1 Center
+STATUS:CONFIRMED
+URL:https://www.espn.com/mma/fightcenter/_/id/600060493/league/ufc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥋 Dana White's Contender Series: Season 10\, Week 3
+DTSTART;TZID=Etc/GMT+5:20260825T190000
+DTEND;TZID=Etc/GMT+5:20260826T000000
+DTSTAMP:20260725T190700Z
+UID:ufc-600060734@terry-sports
+DESCRIPTION:Series: UFC\nWatch: Paramount+\nTimes shown in fixed UTC-05:00
+ .
+LOCATION:Meta APEX
+STATUS:CONFIRMED
+URL:https://www.espn.com/mma/fightcenter/_/id/600060734/league/ufc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥋 UFC Fight Night: Nurmagomedov vs. Song
+DTSTART;TZID=Etc/GMT+5:20260829T020000
+DTEND;TZID=Etc/GMT+5:20260829T070000
+DTSTAMP:20260725T190700Z
+UID:ufc-600060620@terry-sports
+DESCRIPTION:Series: UFC\nWatch: Paramount+\nTimes shown in fixed UTC-05:00
+ .
+LOCATION:Shanghai Oriental Sports Center
+STATUS:CONFIRMED
+URL:https://www.espn.com/mma/fightcenter/_/id/600060620/league/ufc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥋 Dana White's Contender Series: Season 10\, Week 4
+DTSTART;TZID=Etc/GMT+5:20260901T190000
+DTEND;TZID=Etc/GMT+5:20260902T000000
+DTSTAMP:20260725T190700Z
+UID:ufc-600060735@terry-sports
+DESCRIPTION:Series: UFC\nWatch: Paramount+\nTimes shown in fixed UTC-05:00
+ .
+LOCATION:Meta APEX
+STATUS:CONFIRMED
+URL:https://www.espn.com/mma/fightcenter/_/id/600060735/league/ufc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥋 UFC Fight Night: Paris
+DTSTART;TZID=Etc/GMT+5:20260905T110000
+DTEND;TZID=Etc/GMT+5:20260905T160000
+DTSTAMP:20260725T190700Z
+UID:ufc-600059993@terry-sports
+DESCRIPTION:Series: UFC\nWatch: Paramount+\nTimes shown in fixed UTC-05:00
+ .
+LOCATION:Accor Arena
+STATUS:CONFIRMED
+URL:https://www.espn.com/mma/fightcenter/_/id/600059993/league/ufc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥋 Dana White's Contender Series: Season 10\, Week 5
+DTSTART;TZID=Etc/GMT+5:20260908T190000
+DTEND;TZID=Etc/GMT+5:20260909T000000
+DTSTAMP:20260725T190700Z
+UID:ufc-600060736@terry-sports
+DESCRIPTION:Series: UFC\nWatch: Paramount+\nTimes shown in fixed UTC-05:00
+ .
+LOCATION:Meta APEX
+STATUS:CONFIRMED
+URL:https://www.espn.com/mma/fightcenter/_/id/600060736/league/ufc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥋 Noche UFC
+DTSTART;TZID=Etc/GMT+5:20260912T160000
+DTEND;TZID=Etc/GMT+5:20260912T210000
+DTSTAMP:20260725T190700Z
+UID:ufc-600060772@terry-sports
+DESCRIPTION:Series: UFC\nWatch: Paramount+\nTimes shown in fixed UTC-05:00
+ .
+LOCATION:Desert Diamond Arena
+STATUS:CONFIRMED
+URL:https://www.espn.com/mma/fightcenter/_/id/600060772/league/ufc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥋 Dana White's Contender Series: Season 10\, Week 6
+DTSTART;TZID=Etc/GMT+5:20260915T190000
+DTEND;TZID=Etc/GMT+5:20260916T000000
+DTSTAMP:20260725T190700Z
+UID:ufc-600060737@terry-sports
+DESCRIPTION:Series: UFC\nWatch: Paramount+\nTimes shown in fixed UTC-05:00
+ .
+LOCATION:Meta APEX
+STATUS:CONFIRMED
+URL:https://www.espn.com/mma/fightcenter/_/id/600060737/league/ufc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥋 Dana White's Contender Series: Season 10\, Week 7
+DTSTART;TZID=Etc/GMT+5:20260922T190000
+DTEND;TZID=Etc/GMT+5:20260923T000000
+DTSTAMP:20260725T190700Z
+UID:ufc-600060738@terry-sports
+DESCRIPTION:Series: UFC\nWatch: Paramount+\nTimes shown in fixed UTC-05:00
+ .
+LOCATION:Meta APEX
+STATUS:CONFIRMED
+URL:https://www.espn.com/mma/fightcenter/_/id/600060738/league/ufc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥋 Dana White's Contender Series: Season 10\, Week 8
+DTSTART;TZID=Etc/GMT+5:20260929T190000
+DTEND;TZID=Etc/GMT+5:20260930T000000
+DTSTAMP:20260725T190700Z
+UID:ufc-600060739@terry-sports
+DESCRIPTION:Series: UFC\nWatch: Paramount+\nTimes shown in fixed UTC-05:00
+ .
+LOCATION:Meta APEX
+STATUS:CONFIRMED
+URL:https://www.espn.com/mma/fightcenter/_/id/600060739/league/ufc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥋 Dana White's Contender Series: Season 10\, Week 9
+DTSTART;TZID=Etc/GMT+5:20261006T190000
+DTEND;TZID=Etc/GMT+5:20261007T000000
+DTSTAMP:20260725T190700Z
+UID:ufc-600060740@terry-sports
+DESCRIPTION:Series: UFC\nWatch: Paramount+\nTimes shown in fixed UTC-05:00
+ .
+LOCATION:Meta APEX
+STATUS:CONFIRMED
+URL:https://www.espn.com/mma/fightcenter/_/id/600060740/league/ufc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥋 Dana White's Contender Series: Season 10\, Week 10
+DTSTART;TZID=Etc/GMT+5:20261013T190000
+DTEND;TZID=Etc/GMT+5:20261014T000000
+DTSTAMP:20260725T190700Z
+UID:ufc-600060741@terry-sports
+DESCRIPTION:Series: UFC\nWatch: Paramount+\nTimes shown in fixed UTC-05:00
+ .
+LOCATION:Meta APEX
+STATUS:CONFIRMED
+URL:https://www.espn.com/mma/fightcenter/_/id/600060741/league/ufc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥋 UFC Fight Night: Edmonton
+DTSTART;TZID=Etc/GMT+5:20261017T160000
+DTEND;TZID=Etc/GMT+5:20261017T210000
+DTSTAMP:20260725T190700Z
+UID:ufc-600060773@terry-sports
+DESCRIPTION:Series: UFC\nWatch: Paramount+\nTimes shown in fixed UTC-05:00
+ .
+LOCATION:Rogers Place
+STATUS:CONFIRMED
+URL:https://www.espn.com/mma/fightcenter/_/id/600060773/league/ufc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥋 PFL Washington DC: Jean vs. Rodriguez
+DTSTART;TZID=Etc/GMT+5:20260725T190000
+DTEND;TZID=Etc/GMT+5:20260726T000000
+DTSTAMP:20260725T190700Z
+UID:pfl-600059640@terry-sports
+DESCRIPTION:Series: PFL\nWatch: ESPN+\nTimes shown in fixed UTC-05:00.
+LOCATION:CareFirst Arena
+STATUS:CONFIRMED
+URL:https://www.espn.com/mma/fightcenter/_/id/600059640/league/pfl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥋 PFL New York: Nurmagomedov vs. Colgan
+DTSTART;TZID=Etc/GMT+5:20260731T150000
+DTEND;TZID=Etc/GMT+5:20260731T200000
+DTSTAMP:20260725T190700Z
+UID:pfl-600059746@terry-sports
+DESCRIPTION:Series: PFL\nWatch: ESPN+\nTimes shown in fixed UTC-05:00.
+LOCATION:UBS Arena
+STATUS:CONFIRMED
+URL:https://www.espn.com/mma/fightcenter/_/id/600059746/league/pfl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥋 PFL Charlotte: Battle vs. Rosta
+DTSTART;TZID=Etc/GMT+5:20260807T180000
+DTEND;TZID=Etc/GMT+5:20260807T230000
+DTSTAMP:20260725T190700Z
+UID:pfl-600060394@terry-sports
+DESCRIPTION:Series: PFL\nWatch: ESPN\nTimes shown in fixed UTC-05:00.
+LOCATION:Bojangles Coliseum
+STATUS:CONFIRMED
+URL:https://www.espn.com/mma/fightcenter/_/id/600060394/league/pfl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥋 PFL Tampa: Cyborg vs. Vieira
+DTSTART;TZID=Etc/GMT+5:20260822T180000
+DTEND;TZID=Etc/GMT+5:20260822T230000
+DTSTAMP:20260725T190700Z
+UID:pfl-600060446@terry-sports
+DESCRIPTION:Series: PFL\nWatch: ESPN\nTimes shown in fixed UTC-05:00.
+LOCATION:Benchmark International Arena
+STATUS:CONFIRMED
+URL:https://www.espn.com/mma/fightcenter/_/id/600060446/league/pfl
 END:VEVENT
 END:VCALENDAR
